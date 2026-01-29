@@ -38,8 +38,9 @@ If you would like to contribute to the Meshtastic Python library or CLI, we reco
 
 A detailed, step-by-step guide for running the project from source — including dependency installation with Poetry, initializing git submodules, running the CLI locally, and executing tests — is available here:
 
-👉 **Local Development Guide for Meshtastic Python**  
+👉 **Local Development Guide for Meshtastic Python (coming soon)**  
 https://meshtastic.org/docs/development/python/local-dev/
+
 
 This guide is intended for contributors who want to develop, debug, or test changes before submitting a pull request.
 
